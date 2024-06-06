@@ -52,9 +52,9 @@ for (var i in skillntool) {
   // typing text animation script
   var typed = new Typed(".typing", {
     strings: [
-      "Websites",
-      "Smart contracts",
-      "Basic android apps",
+      "Responsive Websites",
+      "competitive Programming",
+      "ML Model building",
     ],
     typeSpeed: 95,
     backSpeed: 60,
